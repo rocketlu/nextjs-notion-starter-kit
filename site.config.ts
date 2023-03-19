@@ -2,7 +2,7 @@ import { siteConfig } from './lib/site-config'
 
 export default siteConfig({
   // the site's root Notion page (required)
-  rootNotionPageId: '623218b163014de59fa490c32c73931a',
+  rootNotionPageId: '518db1d929ea490081049d6ad75fe79f',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
@@ -10,7 +10,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: 'Rocket Lu',
-  domain: 'https://www.notion.so/rocketlu/623218b163014de59fa490c32c73931a',
+  domain: 'https://www.notion.so/rocketlu/Rocket-Lu-518db1d929ea490081049d6ad75fe79f',
   author: 'Rocket Lu',
 
   // open graph metadata (optional)
